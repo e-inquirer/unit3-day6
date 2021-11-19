@@ -1,0 +1,14 @@
+[
+    {
+      "name": "My JS Trivia Game",
+      "live": "https://e-inquirer.github.io/seir_penguin_project_1/",
+      "git": "https://github.com/e-inquirer/seir_penguin_project_1",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://as-penguin-p2.herokuapp.com/groceries",
+      "git": "https://github.com/e-inquirer/penguin_project2",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
